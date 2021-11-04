@@ -1,0 +1,4 @@
+.gradle/**
+.idea/**
+/Working_with_Tasks/.gradle/
+/Writing_Build_Script/.gradle
